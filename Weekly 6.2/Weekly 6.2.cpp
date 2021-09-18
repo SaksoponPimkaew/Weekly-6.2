@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-//#include <math.h>
+//#include <math.h >
 double sqrt(double x) {
 	double i = 0.00;
 	if (x < 0)
